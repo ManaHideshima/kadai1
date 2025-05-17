@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.850277,
+          40.848055
+        ]
+      },
+      "properties": {
+        "遺跡名": "長森遺跡",
+        "緯度": "40.848055",
+        "経度": "140.850277",
+        "点数": "1",
+        "形態分類": "A-1",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.563689,
+          40.547159
+        ]
+      },
+      "properties": {
+        "遺跡名": "乳井茶臼館",
+        "緯度": "40.54715875",
+        "経度": "140.5636894",
+        "点数": "1",
+        "形態分類": "B-7",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.7025,
+          40.407222
+        ]
+      },
+      "properties": {
+        "遺跡名": "サンニヤⅢ遺跡",
+        "緯度": "40.407222",
+        "経度": "141.7025",
+        "点数": "1",
+        "形態分類": "B-3",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.097541,
+          40.303864
+        ]
+      },
+      "properties": {
+        "遺跡名": "石亀遺跡",
+        "緯度": "40.303864",
+        "経度": "141.097541",
+        "点数": "1",
+        "形態分類": "B-3",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.126666,
+          39.7925
+        ]
+      },
+      "properties": {
+        "遺跡名": "上新城中学校遺跡",
+        "緯度": "39.7925",
+        "経度": "140.126666",
+        "点数": "2",
+        "形態分類": "B-3, B-7",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.125833,
+          39.6825
+        ]
+      },
+      "properties": {
+        "遺跡名": "本宮熊堂A遺跡",
+        "緯度": "39.6825",
+        "経度": "141.125833",
+        "点数": "1",
+        "形態分類": "B-2",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.177499,
+          39.631388
+        ]
+      },
+      "properties": {
+        "遺跡名": "岱3遺跡",
+        "緯度": "39.631388",
+        "経度": "140.177499",
+        "点数": "1",
+        "形態分類": "B-7",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.574405,
+          39.305282
+        ]
+      },
+      "properties": {
+        "遺跡名": "三井寺遺跡",
+        "緯度": "39.305282",
+        "経度": "140.574405",
+        "点数": "1",
+        "形態分類": "B-7",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.561113,
+          39.20575
+        ]
+      },
+      "properties": {
+        "遺跡名": "平鹿遺跡",
+        "緯度": "39.20575049",
+        "経度": "140.5611133",
+        "点数": "17",
+        "形態分類": "A-1(8点), A-2(1点), B-3(2点), B-6(1点), B-7(4点), 不明1点",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6643,
+          39.0212
+        ]
+      },
+      "properties": {
+        "遺跡名": "川内遺跡",
+        "緯度": "39.0212",
+        "経度": "141.6643",
+        "点数": "1",
+        "形態分類": "A-1",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.266666,
+          38.926488
+        ]
+      },
+      "properties": {
+        "遺跡名": "釜淵C遺跡",
+        "緯度": "38.926488",
+        "経度": "140.266666",
+        "点数": "1",
+        "形態分類": "A-1",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.113526,
+          38.769254
+        ]
+      },
+      "properties": {
+        "遺跡名": "柴の脇遺跡",
+        "緯度": "38.76925429",
+        "経度": "141.1135261",
+        "点数": "2",
+        "形態分類": "B-3(2点)",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.949138,
+          38.740858
+        ]
+      },
+      "properties": {
+        "遺跡名": "山王囲遺跡",
+        "緯度": "38.74085826",
+        "経度": "140.9491376",
+        "点数": "4",
+        "形態分類": "A-1(1点), B-3(1点), 不明2点",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.419238,
+          38.636637
+        ]
+      },
+      "properties": {
+        "遺跡名": "漆坊遺跡",
+        "緯度": "38.63663749",
+        "経度": "140.4192383",
+        "点数": "4",
+        "形態分類": "A-1, A-4, B-3, B-7 ",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.005,
+          38.619444
+        ]
+      },
+      "properties": {
+        "遺跡名": "北小松遺跡",
+        "緯度": "38.619444",
+        "経度": "141.005",
+        "点数": "13",
+        "形態分類": "A-2(2点), B-3(3点), B-4(1点), B-7(3点), 不明4点",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8191,
+          38.3927
+        ]
+      },
+      "properties": {
+        "遺跡名": "摺萩遺跡",
+        "緯度": "38.3927",
+        "経度": "140.8191",
+        "点数": "1",
+        "形態分類": "A-3",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.346552,
+          38.299722
+        ]
+      },
+      "properties": {
+        "遺跡名": "北柳１遺跡",
+        "緯度": "38.299722",
+        "経度": "140.346552",
+        "点数": "1",
+        "形態分類": "B-7",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.81157,
+          37.537899
+        ]
+      },
+      "properties": {
+        "遺跡名": "能登遺跡",
+        "緯度": "37.537899",
+        "経度": "139.81157",
+        "点数": "1",
+        "形態分類": "B-7",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9177,
+          37.1109
+        ]
+      },
+      "properties": {
+        "遺跡名": "桜町遺跡",
+        "緯度": "37.1109",
+        "経度": "140.9177",
+        "点数": "1",
+        "形態分類": "B-7",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.680833,
+          37.496666
+        ]
+      },
+      "properties": {
+        "遺跡名": "小和瀬遺跡",
+        "緯度": "37.496666",
+        "経度": "139.680833",
+        "点数": "5",
+        "形態分類": "B-3(3点), B-6(1点), 不明1点",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/092.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    }
+  ]
+}
